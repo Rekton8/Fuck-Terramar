@@ -1,4 +1,5 @@
- {
+[
+    {
         "name": "Ancient era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
@@ -12,3 +13,4 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     }
+]
