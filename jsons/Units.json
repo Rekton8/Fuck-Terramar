@@ -30,7 +30,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Terramar",
 		"movement": 1,
-		"strength": [50,"Blast radius [2]"],
+		"strength": 50, ["Blast radius [2]"],
 		"cost": 1,
 		"hurryCostModifier": 100,
 		"requiredTech": "Agriculture",
