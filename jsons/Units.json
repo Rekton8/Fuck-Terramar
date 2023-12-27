@@ -49,7 +49,7 @@
 		"hurryCostModifier": 100,
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
-		"uniques": ["Self-destructs when attacking","Blast radius [1]","Can move immediately once bought", "Double movement in [Grassland]"]
+		"uniques": ["Self-destructs when attacking","Blast radius [2]","Can move immediately once bought", "Double movement in [Grassland]"]
 	}
 
 ]
