@@ -30,6 +30,7 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Terramar",
 		"movement": 1,
+		"strenght": 1,
 		"rangedStrength": 50,
 		"range": 1,
 		"cost": 1,
