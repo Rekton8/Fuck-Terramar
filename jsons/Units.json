@@ -37,7 +37,7 @@
 		"hurryCostModifier": 1000,
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
-		"uniques": ["Cannot attack","<for [3] turns> Reveals the entire map"]
+		"uniques": ["Cannot attack","Reveals the entire map<for [3] turns>"]
 	}
 
 ]
