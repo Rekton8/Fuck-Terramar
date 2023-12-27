@@ -28,16 +28,28 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "SuicideGuy",
+		"name": "DisplayGuy",
 		"unitType": "Civilian",
 		"uniqueTo": "Terramar",
 		"movement": 1,
 		"strength": 1,
 		"cost": 10,
-		"hurryCostModifier": 1000,
+		"hurryCostModifier": 200,
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
-		"uniques": ["Cannot attack","Reveals the entire map <by consuming this unit>"]
+		"uniques": ["Cannot attack","Reveals the entire map <for[3]turns>"]
+	},
+	{
+		"name": "SuicideGuy",
+		"unitType": "Sword",
+		"uniqueTo": "Terramar",
+		"movement": 1,
+		"strength": 500,
+		"cost": 50,
+		"hurryCostModifier": 100,
+		"requiredTech": "Agriculture",
+		"attackSound": "phasers"
+		"uniques": ["Self-destructs when attacking","Blast radius [1]","Can move immediately once bought", "Double movement in [Grassland]"]
 	}
 
 ]
