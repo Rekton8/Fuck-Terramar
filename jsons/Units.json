@@ -15,7 +15,7 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "SuicideGuy",
+		"name": "GreatStone",
 		"unitType": "Ranged",
 		"uniqueTo": "Terramar",
 		"movement": 1,
@@ -26,6 +26,18 @@
 		"hurryCostModifier": 200,
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
+	},
+	{
+		"name": "SuicideGuy",
+		"unitType": "Civilian",
+		"uniqueTo": "Terramar",
+		"movement": 1,
+		"strength": 1,
+		"cost": 10,
+		"hurryCostModifier": 1000,
+		"requiredTech": "Agriculture",
+		"attackSound": "phasers"
+		"uniques": ["Cannot attack","<for [3] turns> Reveals the entire map"]
 	}
 
 ]
