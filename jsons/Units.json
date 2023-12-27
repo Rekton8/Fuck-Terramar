@@ -37,7 +37,7 @@
 		"hurryCostModifier": 200,
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
-		"uniques": ["Cannot attack","Reveals the entire map <for[3]turns>"]
+		"uniques": ["Cannot attack","Reveals the entire map <for [3] turns>"]
 	},
 	{
 		"name": "SuicideGuy",
