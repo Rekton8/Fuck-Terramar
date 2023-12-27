@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "SuicideGuy",
-		"unitType": "Sword",
+		"unitType": "Ranged",
 		"uniqueTo": "Terramar",
 		"movement": 1,
 		"rangedStrength": 50,
