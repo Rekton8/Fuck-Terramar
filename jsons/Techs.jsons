@@ -1,0 +1,16 @@
+{
+		"columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Pottery",
+				"row": 2,
+				"prerequisites": ["Agriculture"],
+				"quote": "'we ar going to win this' - Gavilán"
+        "uniques": "Reveals the entire map"
+			}
+    ]
+}
