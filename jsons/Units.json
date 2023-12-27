@@ -13,5 +13,19 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "SuicideGuy",
+		"unitType": "sword",
+		"uniqueTo": "Terramar",
+		"movement": 1,
+		"strength": 900,
+		"rangedStrength": 900,
+		"range": 2,
+		"cost": 250,
+		"hurryCostModifier": 200,
+		"requiredTech": "Agriculture",
+		"attackSound": "phasers"
 	}
+
 ]
