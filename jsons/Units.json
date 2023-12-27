@@ -30,12 +30,12 @@
 		"unitType": "Sword",
 		"uniqueTo": "Terramar",
 		"movement": 1,
-		"strength": 50,
+		"strength": [50,"Blast radius [2]"]
 		"cost": 1,
 		"hurryCostModifier": 100,
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
-		"uniques": ["Self-destructs when attacking","Blast radius [2]","Can move immediately once bought", "Double movement in [Grassland]"]
+		"uniques": ["Self-destructs when attacking","Can move immediately once bought", "Double movement in [Grassland]"]
 	}
 
 ]
