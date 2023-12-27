@@ -10,7 +10,7 @@
 				"row": 2,
 				"prerequisites": ["Agriculture"],
 				"quote": "'we ar going to win this' - Gavilán"
-        "uniques": "Reveals the entire map"
+       				"uniques": "Reveals the entire map"
 			}
     ]
 }
